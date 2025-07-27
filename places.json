@@ -2,5 +2,9 @@
     {
         "name":"Ranchi",
         "state":"Jharkhand"
+    },
+    {
+        "name":"Bengaluru",
+        "state":"Karnataka"
     }
 ]
