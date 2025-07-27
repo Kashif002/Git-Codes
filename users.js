@@ -2,7 +2,7 @@
     {
         "name":"Kashif",
         "age":25
-    }
+    },
     {
         "name":"Rahul",
         "age":30
